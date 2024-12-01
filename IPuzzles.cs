@@ -2,6 +2,8 @@
 {
     public interface IPuzzles
     {
-        void Run();
+        void RunPartOne();
+
+        void RunPartTwo();
     }
 }
