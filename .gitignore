@@ -3,4 +3,5 @@
 *.dll
 *.cache
 *.AssemblyInfo.cs
-bin/*	
+bin/*
+.vs/*
