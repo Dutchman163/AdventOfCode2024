@@ -118,12 +118,6 @@
             }
 
             var expectedReport = firstReport / Math.Abs(firstReport);
-            var expectedReport2 = firstReport / firstReport;
-
-            if (expectedReport != expectedReport2)
-            {
-
-            }
 
             for (int i = 1; i < report.Count - 1; i++)
             {
