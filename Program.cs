@@ -1,5 +1,5 @@
 ﻿using AdventOfCode2024;
-using AdventOfCode2024.Day2;
+using AdventOfCode2024.Day3;
 
-IPuzzles dayone = new DayTwo();
-dayone.RunPartTwo();
+IPuzzles currentDay = new DayThree();
+currentDay.RunPartTwo();
